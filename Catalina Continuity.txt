@@ -1,0 +1,18 @@
+Handoff Airdrop and Continuity on 2011 MacBook Pro running patched Catalina
+
+Buy this wifi board and install it
+
+Genuine Wireless BCM94331PCIEBT4CAX Airport Card WIFI+Bluetooth 4.0 For A1278
+
+ Read stuff here
+
+ https://forums.macrumors.com/threads/macos-10-15-catalina-on-unsupported-macs.2183772/post-27891116
+
+https://forums.macrumors.com/threads/macos-10-15-catalina-on-unsupported-macs.2183772/post-27895873
+
+
+
+
+Background Info on how it came to be
+
+https://github.com/dokterdok/Continuity-Activation-Tool/issues/463
